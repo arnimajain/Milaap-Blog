@@ -376,7 +376,7 @@
                                 <a href="#" aria-label="Share on LinkedIn" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
                                     <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
                                 </a>
-                                <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                                               <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
                                     <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/instagram-new.png" alt="Instagram" style="width: 20px; height: 20px;">
                                 </a>
                                 <a href="#" aria-label="Share on WhatsApp" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
@@ -387,19 +387,15 @@
                                 </a>
                             </div>
                         </div>
-                        <section>
-    <div class="subscribe-container">
-        <div class="content">
-            <h2>Are you seeking help?</h2>
-            <p>If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
-            <h2>Get Started Now</h2>
-            <p>Take the first step towards realizing your goal. Click here to start your crowdfunding journey and make a difference in your life and the lives of others. Whether it's for a medical emergency, educational aspirations, or a dream project, crowdfunding can help you achieve it.</p>
-        </div>
-        <form class="subscribe-form">
-            <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
-            <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
-            <button type="submit" style="background-color: #6D1B49;">Start Now</button>
-     </div>
+                        <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
+                            <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
+                            <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
+                            <form class="grid subscribe-form">
+                                <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
+                                <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
+                                <button type="submit" onclick="event.preventDefault()" style="background-color: #6D1B49;">Start Now</button>
+                            </form>
+                        </div>
                     </section>
                 </div>
             </div>
@@ -481,3 +477,4 @@
     </div>
 </body>
 </html>
+
