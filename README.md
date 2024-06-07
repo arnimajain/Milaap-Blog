@@ -92,16 +92,7 @@
             height: 30px;
             margin-right: 10px;
         }
-        .social-icons {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.social-icons {
-    text-align: center;
-    margin-top: 20px;
-}
-
+        
 .social-icons {
     text-align: center;
     margin-top: 20px;
