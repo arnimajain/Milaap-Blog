@@ -402,9 +402,6 @@
         </form>
     </div>
 </section>
-
-                </div>
-            </div>
             <div class="related-posts">
                 <h3 style="font-size: 24px;">Related Posts</h3>
                 <div class="card">
