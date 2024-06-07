@@ -93,29 +93,39 @@
             margin-right: 10px;
         }
         .social-icons {
-            border: 1px solid #ddd;
-            padding: 20px;
-            border-radius: 20rem;
-            background-color: #6D1B49;
-            color: #fff;
-            text-align: center;
-            margin-top: 0.3rem;
-        }
-        .social-icons h3 {
-            margin: 0 0 10px;
-            color: #fff;
-        }
-        .social-icons a {
-            margin: 0 5px;
-            display: inline-block;
-            background-color: #fff;
-            padding: 10px;
-            border-radius: 8px;
-        }
-        .social-icons a img {
-            width: 20px;
-            height: 20px;
-        }
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-icons h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #6D1B49;
+}
+
+.social-icons a {
+    padding: 10px;
+    border-radius: 50%;
+    border: 2px solid #6D1B49;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.social-icons a img {
+    width: 20px;
+    height: 20px;
+}
+
+.social-icons a:hover {
+    background-color: #6D1B49;
+    border-color: #fff;
+}
+
+.social-icons a img:hover {
+    filter: invert(1);
+}       
         .accordion {
             border: 1px solid #ccc;
             border-radius: 8px;
@@ -363,7 +373,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="social-icons" style="text-align: center; margin-top: 20px;">
+                       <div class="social-icons" style="text-align: center; margin-top: 20px;">
     <h3 style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
     <div style="display: flex; justify-content: center; gap: 15px;">
         <a href="#" aria-label="Share on Facebook" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
