@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -96,19 +97,19 @@
             border: 1px solid #ddd;
             padding: 20px;
             border-radius: 20rem;
-            background-color: #6D1B49; /* Changed background color */
-            color: #fff; /* Changed text color */
+            background-color: #6D1B49;
+            color: #fff;
             text-align: center;
             margin-top: 0.3rem;
         }
         .social-icons h3 {
             margin: 0 0 10px;
-            color: #fff; /* Changed heading color */
+            color: #fff;
         }
         .social-icons a {
             margin: 0 5px;
             display: inline-block;
-            background-color: #fff; /* Changed icon background */
+            background-color: #fff;
             padding: 10px;
             border-radius: 8px;
         }
