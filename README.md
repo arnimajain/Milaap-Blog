@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -383,7 +384,6 @@
                                     <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
                                 </a>
                                 <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                                                <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
                                     <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/instagram-new.png" alt="Instagram" style="width: 20px; height: 20px;">
                                 </a>
                                 <a href="#" aria-label="Share on WhatsApp" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
@@ -484,4 +484,5 @@
     </div>
 </body>
 </html>
- 
+
+
