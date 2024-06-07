@@ -390,6 +390,11 @@
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
                             <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
                             <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
+                            
+<h2 style="text-align: center; font-size: 16px;">Get Started Now</h2>
+                            <p style="text-align: center; font-size: 16px;">Take the first step towards realizing your goal. Click here to start your crowdfunding journey and make a difference in your life and the lives of others. Whether it's for a medical emergency, educational aspirations, or a dream project, crowdfunding can help you achieve it.</p>
+
+                            
                             <form class="grid subscribe-form">
                                 <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
                                 <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
