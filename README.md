@@ -402,15 +402,6 @@
         </form>
     </div>
 </section>                  
-                            <form class="grid subscribe-form">
-                                <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
-                                <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
-                                <button type="submit" onclick="event.preventDefault()" style="background-color: #6D1B49;">Start Now</button>
-                            </form>
-                        </div>
-                    </section>
-                </div>
-            </div>
             <div class="related-posts">
                 <h3 style="font-size: 24px;">Related Posts</h3>
                 <div class="card">
