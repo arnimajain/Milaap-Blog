@@ -103,12 +103,6 @@
             color: #6D1B49;
         }
         .social-icons a {
-            padding: 10px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
             background-color: transparent; /* Remove background color */
         }
         .social-icons a img {
