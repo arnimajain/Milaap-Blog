@@ -357,30 +357,42 @@
 <p>Keep your supporters informed about the progress of your campaign. Share updates on milestones reached, challenges faced, and how their contributions are making a difference. Transparency and communication build trust and encourage continued support.</p>
 
                         </div>
-                        <table style="width:100%; border-collapse: collapse; margin-top: 20px;">
-    <caption style="font-size: 24px; text-align: center;">Campaign Progress</caption>
+                        
+<table style="width: 80%; margin: 20px auto; border-collapse: collapse; text-align: center;">
+    <caption style="font-size: 24px;">Campaign Progress</caption>
     <thead>
         <tr>
             <th style="background-color: #6D1B49; color: #fff; padding: 10px;">Date</th>
             <th style="background-color: #6D1B49; color: #fff; padding: 10px;">Amount Raised</th>
+            <th style="background-color: #6D1B49; color: #fff; padding: 10px;">Donors</th>
+            <th style="background-color: #6D1B49; color: #fff; padding: 10px;">Goal Progress</th>
+            <th style="background-color: #6D1B49; color: #fff; padding: 10px;">Status</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td style="border: 1px solid #ddd; padding: 10px;">June 1, 2024</td>
             <td style="border: 1px solid #ddd; padding: 10px;">$5,000</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">50</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">25%</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">In Progress</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 10px;">June 5, 2024</td>
             <td style="border: 1px solid #ddd; padding: 10px;">$10,000</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">100</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">50%</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">In Progress</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 10px;">June 10, 2024</td>
             <td style="border: 1px solid #ddd; padding: 10px;">$15,000</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">150</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">75%</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">Completed</td>
         </tr>
     </tbody>
 </table>
-
                         <img src="https://via.placeholder.com/800x400" alt="Step-by-Step Infographic" class="image-container" />
                         <h3 style="font-size: 24px; clear: both;">Conclusion</h3>
                         <p style="font-size: 18px;">
