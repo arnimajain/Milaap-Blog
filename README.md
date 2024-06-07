@@ -129,6 +129,7 @@
 .social-icons a img:hover {
     filter: invert(1);
 }
+
         .accordion {
             border: 1px solid #ccc;
             border-radius: 8px;
@@ -398,7 +399,7 @@
             <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/link.png" alt="Generate Link" style="width: 20px; height: 20px;">
         </a>
     </div>
-</div>                 
+</div>                        
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
                             <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
                             <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
