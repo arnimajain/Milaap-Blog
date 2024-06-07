@@ -105,7 +105,6 @@
         .social-icons a {
             padding: 10px;
             border-radius: 50%;
-            border: 2px solid #6D1B49;
             display: flex;
             align-items: center;
             justify-content: center;
