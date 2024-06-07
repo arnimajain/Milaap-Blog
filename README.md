@@ -93,62 +93,37 @@
             height: 30px;
             margin-right: 10px;
         }
-        .social-share {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.social-share h3 {
-    font-size: 18px;
-    margin-bottom: 15px;
-    color: #6D1B49;
-}
-
-.social-icons {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-.social-icon {
-    padding: 10px 20px;
-    border-radius: 20px;
-    border: 2px solid #6D1B49;
-    color: #6D1B49;
-    text-decoration: none;
-    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
-    font-weight: bold;
-}
-
-.social-icon:hover {
-    background-color: #6D1B49;
-    color: #fff;
-    box-shadow: 0 0 10px rgba(109, 27, 73, 0.5);
-}
-
-.social-icon.facebook:hover {
-    background-color: #3b5998;
-}
-
-.social-icon.twitter:hover {
-    background-color: #1da1f2;
-}
-
-.social-icon.linkedin:hover {
-    background-color: #0077b5;
-}
-
-.social-icon.instagram:hover {
-    background-color: #e4405f;
-}
-
-.social-icon.whatsapp:hover {
-    background-color: #25d366;
-}
-
-.social-icon.link:hover {
-    background-color: #6d1b49;
-}
+        .social-icons {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-icons h3 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            color: #6D1B49;
+        }
+        .social-icons a {
+            padding: 10px;
+            border-radius: 50%;
+            border: 2px solid #6D1B49;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+            background-color: transparent; /* Remove background color */
+        }
+        .social-icons a img {
+            width: 20px;
+            height: 20px;
+        }
+        .social-icons a:hover {
+            background-color: #6D1B49;
+            border-color: #fff;
+            box-shadow: 0 0 10px rgba(109, 27, 73, 0.5);
+        }
+        .social-icons a img:hover {
+            filter: invert(1);
+        }
         .accordion {
             border: 1px solid #ccc;
             border-radius: 8px;
@@ -396,29 +371,30 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="social-share">
-    <h3 style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
-    <div class="social-icons">
-        <a href="#" aria-label="Share on Facebook" class="social-icon facebook">
-            Facebook
-        </a>
-        <a href="#" aria-label="Share on Twitter" class="social-icon twitter">
-            Twitter
-        </a>
-        <a href="#" aria-label="Share on LinkedIn" class="social-icon linkedin">
-            LinkedIn
-        </a>
-        <a href="#" aria-label="Share on Instagram" class="social-icon instagram">
-            Instagram
-        </a>
-        <a href="#" aria-label="Share on WhatsApp" class="social-icon whatsapp">
-            WhatsApp
-        </a>
-        <a href="#" aria-label="Generate Link" class="social-icon link">
-            Generate Link
-        </a>
-    </div>
-</div>                 
+                        <div class="social-icons" style="text-align: center; margin-top: 20px;">
+                            <h3 id="spread-the-word" style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
+                            <div style="display: flex; justify-content: center; gap: 15px;">
+                                <a href="#" aria-label="Share on Facebook" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/facebook.png" alt="Facebook" style="width: 20px; height: 20px;">
+                                </a>
+                                <a href="#" aria-label="Share on Twitter" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/twitter.png" alt="Twitter" style="width: 20px; height: 20px;">
+                                </a>
+                                <a href="#" aria-label="Share on LinkedIn" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
+                                </a>
+                                <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                                                <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/instagram-new.png" alt="Instagram" style="width: 20px; height: 20px;">
+                                </a>
+                                <a href="#" aria-label="Share on WhatsApp" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/whatsapp.png" alt="WhatsApp" style="width: 20px; height: 20px;">
+                                </a>
+                                <a href="#" aria-label="Generate Link" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
+                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/link.png" alt="Generate Link" style="width: 20px; height: 20px;">
+                                </a>
+                            </div>
+                        </div>
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
                             <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
                             <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
@@ -509,3 +485,4 @@
     </div>
 </body>
 </html>
+ 
