@@ -288,16 +288,6 @@
     <title>Crowdfunding Blog Post</title>
 </head>
 <body>
-    <nav class="container-fluid fixed-header">
-        <ul>
-            <li><strong>Milaap</strong></li>
-        </ul>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
     <main class="container main-content">
         <div class="content-wrapper">
             <div class="main-content-area">
