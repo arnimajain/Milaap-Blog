@@ -93,37 +93,62 @@
             height: 30px;
             margin-right: 10px;
         }
-        .social-icons {
-            text-align: center;
-            margin-top: 20px;
-        }
-        .social-icons h3 {
-            font-size: 18px;
-            margin-bottom: 15px;
-            color: #6D1B49;
-        }
-        .social-icons a {
-            padding: 10px;
-            border-radius: 50%;
-            border: 2px solid #6D1B49;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
-            background-color: transparent; /* Remove background color */
-        }
-        .social-icons a img {
-            width: 20px;
-            height: 20px;
-        }
-        .social-icons a:hover {
-            background-color: #6D1B49;
-            border-color: #fff;
-            box-shadow: 0 0 10px rgba(109, 27, 73, 0.5);
-        }
-        .social-icons a img:hover {
-            filter: invert(1);
-        }
+        .social-share {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-share h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #6D1B49;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-icon {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid #6D1B49;
+    color: #6D1B49;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    font-weight: bold;
+}
+
+.social-icon:hover {
+    background-color: #6D1B49;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(109, 27, 73, 0.5);
+}
+
+.social-icon.facebook:hover {
+    background-color: #3b5998;
+}
+
+.social-icon.twitter:hover {
+    background-color: #1da1f2;
+}
+
+.social-icon.linkedin:hover {
+    background-color: #0077b5;
+}
+
+.social-icon.instagram:hover {
+    background-color: #e4405f;
+}
+
+.social-icon.whatsapp:hover {
+    background-color: #25d366;
+}
+
+.social-icon.link:hover {
+    background-color: #6d1b49;
+}
         .accordion {
             border: 1px solid #ccc;
             border-radius: 8px;
