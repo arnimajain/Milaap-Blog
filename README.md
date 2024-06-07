@@ -350,8 +350,12 @@
                             <p>Set a funding goal that is attainable and reflects the actual cost of your project. Break down the expenses to show potential supporters where their money will go.</p>
                             <h3>Promote Your Campaign</h3>
                             <p>Utilize social media, email, and word of mouth to spread the word about your campaign. Engage with your supporters and keep them informed about your progress.</p>
-                               <h3>Promote Your Campaign</h3>
-                            <p>Utilize social media, email, and word of mouth to spread the word about your campaign. Engage with your supporters and keep them informed about your progress.</p>
+                            <h3>Engage with Your Community</h3>
+<p>Building a strong community around your campaign is essential. Regularly communicate with your supporters, answer their questions, and express gratitude for their contributions. Encourage them to share your campaign with their networks.</p>
+
+<h3>Provide Regular Updates</h3>
+<p>Keep your supporters informed about the progress of your campaign. Share updates on milestones reached, challenges faced, and how their contributions are making a difference. Transparency and communication build trust and encourage continued support.</p>
+
                         </div>
                         <img src="https://via.placeholder.com/800x400" alt="Step-by-Step Infographic" class="image-container" />
                         <h3 style="font-size: 24px; clear: both;">Conclusion</h3>
