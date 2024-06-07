@@ -371,30 +371,29 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="social-icons" style="text-align: center; margin-top: 20px;">
-                            <h3 id="spread-the-word" style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
-                            <div style="display: flex; justify-content: center; gap: 15px;">
-                                <a href="#" aria-label="Share on Facebook" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/facebook.png" alt="Facebook" style="width: 20px; height: 20px;">
-                                </a>
-                                <a href="#" aria-label="Share on Twitter" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/twitter.png" alt="Twitter" style="width: 20px; height: 20px;">
-                                </a>
-                                <a href="#" aria-label="Share on LinkedIn" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
-                                </a>
-                                <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                                                   <a href="#" aria-label="Share on Instagram" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/instagram-new.png" alt="Instagram" style="width: 20px; height: 20px;">
-                                </a>
-                                <a href="#" aria-label="Share on WhatsApp" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/whatsapp.png" alt="WhatsApp" style="width: 20px; height: 20px;">
-                                </a>
-                                <a href="#" aria-label="Generate Link" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
-                                    <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/link.png" alt="Generate Link" style="width: 20px; height: 20px;">
-                                </a>
-                            </div>
-                        </div>
+                        <div class="social-share">
+    <h3 style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
+    <div class="social-icons">
+        <a href="#" aria-label="Share on Facebook" class="social-icon facebook">
+            Facebook
+        </a>
+        <a href="#" aria-label="Share on Twitter" class="social-icon twitter">
+            Twitter
+        </a>
+        <a href="#" aria-label="Share on LinkedIn" class="social-icon linkedin">
+            LinkedIn
+        </a>
+        <a href="#" aria-label="Share on Instagram" class="social-icon instagram">
+            Instagram
+        </a>
+        <a href="#" aria-label="Share on WhatsApp" class="social-icon whatsapp">
+            WhatsApp
+        </a>
+        <a href="#" aria-label="Generate Link" class="social-icon link">
+            Generate Link
+        </a>
+    </div>
+</div>                 
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
                             <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
                             <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
