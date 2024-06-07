@@ -379,7 +379,7 @@
                         </div>
                         <div class="social-icons" style="text-align: center; margin-top: 20px;">
     <h3 id="spread-the-word" style="font-size: 18px; margin-bottom: 15px; color: #6D1B49;">Spread the Word</h3>
-    <div style="display: flex; justify-content: center; gap: 15px;">
+    <div style="display: flex; justify-content: center; gap: 10px;">
         <a href="#" aria-label="Share on Facebook" style="padding: 10px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;">
             <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/facebook.png" alt="Facebook" style="width: 20px; height: 20px;">
         </a>
