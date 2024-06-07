@@ -399,9 +399,10 @@
             <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
             <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
             <button type="submit" style="background-color: #6D1B49;">Start Now</button>
-        </form>
-    </div>
-</section>                  
+     </div>
+                    </section>
+                </div>
+            </div>
             <div class="related-posts">
                 <h3 style="font-size: 24px;">Related Posts</h3>
                 <div class="card">
@@ -480,5 +481,3 @@
     </div>
 </body>
 </html>
-
-
