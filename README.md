@@ -350,6 +350,8 @@
                             <p>Set a funding goal that is attainable and reflects the actual cost of your project. Break down the expenses to show potential supporters where their money will go.</p>
                             <h3>Promote Your Campaign</h3>
                             <p>Utilize social media, email, and word of mouth to spread the word about your campaign. Engage with your supporters and keep them informed about your progress.</p>
+                               <h3>Promote Your Campaign</h3>
+                            <p>Utilize social media, email, and word of mouth to spread the word about your campaign. Engage with your supporters and keep them informed about your progress.</p>
                         </div>
                         <img src="https://via.placeholder.com/800x400" alt="Step-by-Step Infographic" class="image-container" />
                         <h3 style="font-size: 24px; clear: both;">Conclusion</h3>
