@@ -97,6 +97,11 @@
     margin-top: 20px;
 }
 
+.social-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+
 .social-icons h3 {
     font-size: 18px;
     margin-bottom: 15px;
@@ -125,6 +130,7 @@
 
 .social-icons a img:hover {
     filter: invert(1);
+
 }       
         .accordion {
             border: 1px solid #ccc;
