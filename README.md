@@ -387,7 +387,6 @@
                                 </a>
                             </div>
                         </div>
-                       <section>
     <div class="subscribe-container">
         <div class="content">
             <h2 style="font-size: 18px;">Are you seeking help?</h2>
@@ -399,9 +398,11 @@
             <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
             <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
             <button type="submit" style="background-color: #6D1B49;">Start Now</button>
-        </form>
-    </div>
-</section>
+      </form>
+                        </div>
+                    </section>
+                </div>
+            </div>
             <div class="related-posts">
                 <h3 style="font-size: 24px;">Related Posts</h3>
                 <div class="card">
