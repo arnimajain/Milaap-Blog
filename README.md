@@ -286,7 +286,7 @@
             });
         });
     </script>
-    <title>Crowdfunding Blog Post</title>
+       <title>Crowdfunding Blog Post</title>
 </head>
 <body>
     <main class="container main-content">
@@ -354,7 +354,7 @@
                         <img src="https://via.placeholder.com/800x400" alt="Step-by-Step Infographic" class="image-container" />
                         <h3 style="font-size: 24px; clear: both;">Conclusion</h3>
                         <p style="font-size: 18px;">
-                            Crowdfunding has the potential to change lives. By sharing our stories and supporting each other, we can make a difference.
+                            Crowdfunding has the potential to transform lives, providing an accessible platform for those in need to garner support. Through heartfelt storytelling and community engagement, individuals can overcome financial barriers, achieve personal goals, and foster unity. Each campaign, from medical expenses to community projects, showcases the collective power of people coming together for a common cause. By participating in crowdfunding, we contribute to a cycle of giving and receiving, empowering others and, in turn, enriching our own lives.
                         </p>
                         <div class="author-bio" style="display: flex; align-items: center; margin: 2rem 0;">
                             <img src="https://via.placeholder.com/80" alt="Author Photo" width="80" height="80">
@@ -371,7 +371,8 @@
                             <a href="#" aria-label="Share on LinkedIn"><img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png"/></a>
                         </div>
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
-                            <h2 style="text-align: center; font-size: 18px;">Are you seeking help? Click here to start your crowdfunding journey.</h2>
+                            <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
+                            <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
                             <form class="grid subscribe-form">
                                 <input type="text" id="firstname" name="firstname" placeholder="First Name" aria-label="First Name" required />
                                 <input type="tel" id="phone" name="phone" placeholder="Phone Number" aria-label="Phone Number" required />
@@ -402,6 +403,7 @@
                         <span>Author Name</span>
                     </div>
                     <div class="card-details">
+```html
                         <span>8 min read</span> • <span>Published on Feb 1, 2024</span>
                     </div>
                 </div>
