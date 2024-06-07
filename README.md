@@ -363,21 +363,29 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="social-icons" style="text-align: center; padding: 20px; background-color: #6D1B49; border-radius: 20px; margin-top: 20px;">
-    <h3 style="color: #fff; font-size: 20px; margin-bottom: 20px;">Spread the Word</h3>
-    <div style="display: flex; justify-content: center; gap: 15px;">
-        <a href="#" aria-label="Share on Facebook" style="background-color: #fff; padding: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/facebook.png" alt="Facebook" style="width: 20px; height: 20px;">
+                        <div class="social-icons" style="text-align: center; margin-top: 20px;">
+    <h3 style="font-size: 22px; margin-bottom: 20px; color: #6D1B49;">Spread the Word</h3>
+    <div style="display: flex; justify-content: center; gap: 20px;">
+        <a href="#" aria-label="Share on Facebook" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/facebook.png" alt="Facebook" style="width: 24px; height: 24px;">
         </a>
-        <a href="#" aria-label="Share on Twitter" style="background-color: #fff; padding: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/twitter.png" alt="Twitter" style="width: 20px; height: 20px;">
+        <a href="#" aria-label="Share on Twitter" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/twitter.png" alt="Twitter" style="width: 24px; height: 24px;">
         </a>
-        <a href="#" aria-label="Share on LinkedIn" style="background-color: #fff; padding: 10px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
+        <a href="#" aria-label="Share on LinkedIn" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/linkedin.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+        </a>
+        <a href="#" aria-label="Share on Instagram" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/instagram-new.png" alt="Instagram" style="width: 24px; height: 24px;">
+        </a>
+        <a href="#" aria-label="Share on WhatsApp" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/whatsapp.png" alt="WhatsApp" style="width: 24px; height: 24px;">
+        </a>
+        <a href="#" aria-label="Generate Link" style="padding: 12px; border-radius: 50%; border: 2px solid #6D1B49; display: flex; align-items: center; justify-content: center; transition: background-color 0.3s, border-color 0.3s;">
+            <img src="https://img.icons8.com/ios-glyphs/30/6D1B49/link.png" alt="Generate Link" style="width: 24px; height: 24px;">
         </a>
     </div>
 </div>
-
                         <div class="subscribe-container" style="border-radius: 20rem; margin-top: 1rem;">
                             <h2 style="text-align: center; font-size: 18px;">Are you seeking help?</h2>
                             <p style="text-align: center; font-size: 16px;">If you are in need of financial support for medical expenses, education, business ventures, or personal causes, consider starting your crowdfunding campaign today. Begin by choosing the right platform, crafting a compelling story, and setting a realistic funding goal. Engage with your community and keep them informed about your progress. Remember, your journey can inspire others and create a ripple effect of kindness and support.</p>
