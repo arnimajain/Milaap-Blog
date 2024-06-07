@@ -95,7 +95,7 @@
         
 .social-icons {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .social-icons h3 {
